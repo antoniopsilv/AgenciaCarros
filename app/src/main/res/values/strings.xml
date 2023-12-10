@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgenciaCarros</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="ano">Ano</string>
+    <string name="preco">Preco</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="chat">Chat</string>
+</resources>
